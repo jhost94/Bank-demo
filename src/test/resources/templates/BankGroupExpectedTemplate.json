@@ -1,0 +1,27 @@
+{
+  "banks": [
+    {
+      "id": "some-id-string-here1",
+      "short_name": "Short Bank name",
+      "full_name": "Long bank name",
+      "logo": null
+    },
+    {
+      "id": "some-id-string-here2",
+      "short_name": "Short Bank name",
+      "full_name": "Long bank name",
+      "logo": null
+    },
+    {
+      "id": "some-id-string-here3",
+      "short_name": "Short Bank name",
+      "full_name": "Long bank name",
+      "logo": null
+    {
+      "id": "some-id-string-here4",
+      "short_name": "Short Bank name",
+      "full_name": "Long bank name",
+      "logo": null
+    }
+  ]
+}
